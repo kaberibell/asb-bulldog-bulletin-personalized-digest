@@ -1,4 +1,4 @@
-# School Bulletin Digest — Automated Newsletter Filter
+# ASB Bulletin Digest — Automated Newsletter Filter
 
 **Created by Kaberi Bell, ASB School Parent**
 
@@ -6,9 +6,9 @@
 
 ## What Is This?
 
-Every week, your school sends out a newsletter packed with information — events, volunteering opportunities, sports sign-ups, food drives, and much more. The problem is that not everything in that newsletter is relevant to your family. If you have a child in 1st grade, you don't need to read about 8th grade graduation or middle school sports results.
+Every week, our school sends out a newsletter packed with information — events, volunteering opportunities, sports sign-ups, food drives, and much more. The problem is that not everything in that newsletter is relevant to your family. If you have a child in 1st grade, you don't need to read about 8th grade graduation or middle school sports results.
 
-This tool automatically reads your school's weekly newsletter when it arrives in your Gmail inbox, filters it down to only what matters to your family, and sends you a clean, easy-to-read digest email. If there's a food drive, it even adds a reminder to your Google Calendar on the Saturday before so you remember to pick up the supplies.
+This tool automatically reads your school's weekly newsletter when it arrives in your Gmail inbox, filters it down to only what matters to your family, and sends you a clean, easy-to-read digest email. If there's a food drive, it even adds a reminder to your Google Calendar on the Saturday before the first Monday of the month so you remember to pick up the specific supplies assigned to your child's grade.
 
 ---
 
@@ -17,8 +17,8 @@ This tool automatically reads your school's weekly newsletter when it arrives in
 This is for any school parent who:
 - Receives a weekly school newsletter via email
 - Uses Gmail and Google Calendar
-- Wants a shorter, more relevant version of the newsletter sent directly to them
-- Is comfortable copying and pasting text (no coding experience needed)
+- Wants a shorter, more relevant version of the newsletter sent directly to them to save time
+- Is curious and wants to explore new ways to optimize their life
 
 ---
 
@@ -51,7 +51,7 @@ The two trickiest parts are getting the API key (it's a new kind of account most
 
 1. A **Gmail account** (the same one that receives the school newsletter)
 2. A **free Anthropic account** to get an API key (this is what powers the AI filtering)
-3. About 30–60 minutes
+3. About 30–60 minutes without distraction so you can set this up
 
 ---
 
@@ -69,7 +69,7 @@ This is the "key" that lets the script use Claude AI to read and filter the news
 6. **Copy the key** — it starts with `sk-ant-...`
 7. Paste it somewhere safe temporarily (like a notes app) — you'll need it in Step 3
 
-> ⚠️ **Important:** Never share your API key with anyone or paste it into a chat. Treat it like a password.
+> ⚠️ **Important:** Never share your API key with anyone or paste it into a chat. Treat it like a password. If you end up sharing it with anyone, get a new API key and replace the old one in the code
 
 ---
 

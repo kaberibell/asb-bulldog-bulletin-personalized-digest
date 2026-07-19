@@ -1,4 +1,4 @@
-# ASB Bulletin Digest Personalized Digest
+# ASB Bulldog Bulletin Personalized Digest
 
 **Created by Kaberi Bell, ASB School Parent**
 

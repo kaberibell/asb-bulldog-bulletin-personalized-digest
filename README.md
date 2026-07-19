@@ -85,7 +85,7 @@ This is the "key" that lets the script use Claude AI to read and filter the news
 
 1. Download the file **BulldogBulletin.gs** from this repository
 2. Open it in any text editor (Notepad on Windows, TextEdit on Mac)
-3. Copy everything
+3. Copy everything and adjust based on your family needs (the script here has examples but you can change it; ask Claude for help if you need)
 4. Paste it into the Google Apps Script editor
 
 Now find the **CONFIG section** at the top — it looks like this:

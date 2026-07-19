@@ -1,4 +1,4 @@
-# ASB Bulletin Digest — Automated Newsletter Filter
+# ASB Bulletin Digest Personalized Digest
 
 **Created by Kaberi Bell, ASB School Parent**
 

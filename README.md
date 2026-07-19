@@ -92,12 +92,12 @@ Now find the **CONFIG section** at the top — it looks like this:
 
 ```javascript
 const CONFIG = {
-  SENDER_EMAIL: "YOUR_SCHOOL_BULLETIN_EMAIL@school.org",
+  SENDER_EMAIL: "advancement@asbschool.org",
   RECIPIENTS: ["PARENT_ONE@gmail.com", "PARENT_TWO@gmail.com"],
   CHILD_GRADE: "YOUR_CHILDS_GRADE",
   FAMILY_NAME: "YOUR_LAST_NAME",
-  BULLETIN_NAME: "YOUR BULLETIN NAME",
-  SCHOOL_NAME: "YOUR SCHOOL NAME",
+  BULLETIN_NAME: "Bulldog Bulletin Digest",
+  SCHOOL_NAME: "ASB SCHOOL",
   SECTIONS_TO_SKIP: "faith/parish content (except food drive), upper-grade spotlights, 8th grade content, admissions referral asks, parish volunteering, athletic results/recaps",
   ANTHROPIC_API_KEY: "PASTE_YOUR_ANTHROPIC_API_KEY_HERE",
   LABEL_NAME: "BulletinProcessed"
